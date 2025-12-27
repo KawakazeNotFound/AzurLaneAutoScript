@@ -134,6 +134,10 @@ The core of an Azur Lane bot is map detection. If you simply use `Template match
 
 Development documents, refer to [WIKI](https://github.com/LmeSzinc/AzurLaneAutoScript/wiki).
 
+**Event Development Guides**:
+- [活动识别素材位置及添加新活动指南 (中文)](./doc/event_guide_cn.md) - Detailed guide on event recognition materials location and how to add new events
+- [Event Recognition Materials Location and New Event Addition Guide](./doc/event_guide_en.md) - English version
+
 
 
 ## Join Development

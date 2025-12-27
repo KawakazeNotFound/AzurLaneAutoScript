@@ -147,6 +147,10 @@ GUI development, thanks **[@18870](https://github.com/18870)** , say HURRAY.
 
 [WIKI](https://github.com/LmeSzinc/AzurLaneAutoScript/wiki)で全てのドキュメントを読めます。
 
+**イベント開発ガイド**:
+- [活動識別素材位置及添加新活動指南 (中文)](./doc/event_guide_cn.md) - イベント認識素材の場所と新しいイベントの追加方法の詳細ガイド
+- [Event Recognition Materials Location and New Event Addition Guide (English)](./doc/event_guide_en.md) - 英語版
+
 
 
 ## 開発にお手伝 Join Development
